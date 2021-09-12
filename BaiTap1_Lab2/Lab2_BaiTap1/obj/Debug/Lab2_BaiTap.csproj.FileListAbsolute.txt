@@ -1,0 +1,13 @@
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\bin\Debug\Lab2_ViDu2.exe.config
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\bin\Debug\Lab2_ViDu2.exe
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\bin\Debug\Lab2_ViDu2.pdb
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_BaiTap.csproj.AssemblyReference.cache
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.frmGiaoVien.resources
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.frmTBGiaoVien.resources
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.Properties.Resources.resources
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_BaiTap.csproj.GenerateResource.cache
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_BaiTap.csproj.CoreCompileInputs.cache
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.exe
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.pdb
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.frmThongTinGiaoVien.resources
+D:\Lab2_ViDu2 - Copy\Lab2_ViDu2\obj\Debug\Lab2_ViDu2.DanhSachGiaoVien.resources
